@@ -1,1 +1,1 @@
-# 🎓 Tasks from codewars, yandex
+

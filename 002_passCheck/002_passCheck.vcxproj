@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{08b04ac5-67e3-446b-9f82-68f1f76fb009}</ProjectGuid>
-    <RootNamespace>PracticeC</RootNamespace>
+    <ProjectGuid>{3e2ef580-60c0-4015-8a7c-8a5cc205aa16}</ProjectGuid>
+    <RootNamespace>My002passCheck</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="PracticeC.cpp" />
+    <ClCompile Include="002_passCheck.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

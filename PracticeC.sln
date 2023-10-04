@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "002_passCheck", "002_passCh
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "003_testing123", "003_testing123\003_testing123.vcxproj", "{64CE0809-A311-419A-9AD1-C4ABE7646B76}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "004_countByX", "004_countByX\004_countByX.vcxproj", "{9ADEC5DD-565F-46CB-8170-18E70C12BF96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{64CE0809-A311-419A-9AD1-C4ABE7646B76}.Release|x64.Build.0 = Release|x64
 		{64CE0809-A311-419A-9AD1-C4ABE7646B76}.Release|x86.ActiveCfg = Release|Win32
 		{64CE0809-A311-419A-9AD1-C4ABE7646B76}.Release|x86.Build.0 = Release|Win32
+		{9ADEC5DD-565F-46CB-8170-18E70C12BF96}.Debug|x64.ActiveCfg = Debug|x64
+		{9ADEC5DD-565F-46CB-8170-18E70C12BF96}.Debug|x64.Build.0 = Debug|x64
+		{9ADEC5DD-565F-46CB-8170-18E70C12BF96}.Debug|x86.ActiveCfg = Debug|Win32
+		{9ADEC5DD-565F-46CB-8170-18E70C12BF96}.Debug|x86.Build.0 = Debug|Win32
+		{9ADEC5DD-565F-46CB-8170-18E70C12BF96}.Release|x64.ActiveCfg = Release|x64
+		{9ADEC5DD-565F-46CB-8170-18E70C12BF96}.Release|x64.Build.0 = Release|x64
+		{9ADEC5DD-565F-46CB-8170-18E70C12BF96}.Release|x86.ActiveCfg = Release|Win32
+		{9ADEC5DD-565F-46CB-8170-18E70C12BF96}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

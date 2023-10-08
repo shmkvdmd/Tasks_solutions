@@ -27,7 +27,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "smth", "simpleOOPex\smth.vc
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "oop_001", "oop_001\oop_001.vcxproj", "{754790E1-2309-4887-A760-ED158B735C35}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "oop_002", "oop_002\oop_002.vcxproj", "{47BEC82B-25E4-42E7-9E25-2075F793B392}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "oop_002_matrixChange", "oop_002_matrixChange\oop_002.vcxproj", "{47BEC82B-25E4-42E7-9E25-2075F793B392}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

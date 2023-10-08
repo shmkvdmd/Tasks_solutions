@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "007_highestAndLowest", "007
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "009_whatIsBetween", "009_whatIsBetween\009_whatIsBetween.vcxproj", "{BB12B0CA-0E72-4D8D-B33D-40A850E83675}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "010_findMaxAndMin", "010_findMaxAndMin\010_findMaxAndMin.vcxproj", "{1C79740B-0560-4657-ACC9-92FF737B060C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{BB12B0CA-0E72-4D8D-B33D-40A850E83675}.Release|x64.Build.0 = Release|x64
 		{BB12B0CA-0E72-4D8D-B33D-40A850E83675}.Release|x86.ActiveCfg = Release|Win32
 		{BB12B0CA-0E72-4D8D-B33D-40A850E83675}.Release|x86.Build.0 = Release|Win32
+		{1C79740B-0560-4657-ACC9-92FF737B060C}.Debug|x64.ActiveCfg = Debug|x64
+		{1C79740B-0560-4657-ACC9-92FF737B060C}.Debug|x64.Build.0 = Debug|x64
+		{1C79740B-0560-4657-ACC9-92FF737B060C}.Debug|x86.ActiveCfg = Debug|Win32
+		{1C79740B-0560-4657-ACC9-92FF737B060C}.Debug|x86.Build.0 = Debug|Win32
+		{1C79740B-0560-4657-ACC9-92FF737B060C}.Release|x64.ActiveCfg = Release|x64
+		{1C79740B-0560-4657-ACC9-92FF737B060C}.Release|x64.Build.0 = Release|x64
+		{1C79740B-0560-4657-ACC9-92FF737B060C}.Release|x86.ActiveCfg = Release|Win32
+		{1C79740B-0560-4657-ACC9-92FF737B060C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -9,6 +9,7 @@ private:
 	double price;
 public:
 	Tiles(std::string,int,int,double);
+	Tiles();
 	~Tiles();
 	void print();
 	std::string getBrand();

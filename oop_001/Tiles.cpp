@@ -9,6 +9,14 @@ Tiles::Tiles(std::string brand, int size_h, int size_w, double price)
 	this->price = price;
 }
 
+Tiles::Tiles()
+{
+	this->brand = "brand";
+	this->size_h = 10;
+	this->size_w = 10;
+	this->price = 9.99;
+}
+
 Tiles::~Tiles()
 {}
 

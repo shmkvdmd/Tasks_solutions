@@ -11,6 +11,6 @@ std::string to_alternating_case(const std::string& str)
 }
 int main()
 {
-	std::cout << to_alternating_case("joPA");
+	std::cout << to_alternating_case("SmTh");
 }
 
